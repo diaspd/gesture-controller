@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSExpert Max - BlinkToPlay</title>
+  <style>
+    body {
+      background-color: #141414;
+    }
+    video {
+      margin-left: 10rem;
+      width: 90%;
+      margin: 1rem;
+    }
+    .video-container {
+      margin-top: 3rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    button {
+      background-color: #414141;
+      border: none;
+      color: aliceblue;
+      padding: 1rem;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: 1s;
+      margin-left: 2%;
+    }
+    button:hover {
+      cursor: pointer;
+      background-color: #c4c4c4;
+      color: black;
+    }
+    button:disabled{
+      cursor: not-allowed;
+      background-color: #b4b3b3ad;
+      color: rgba(0, 0, 0, 0.63);
+    }
+    #status {
+      color: white;
+      font-family: 'sans-serif';
+      font-size: 1rem;
+      font-weight: bold;
+      margin-left: 1.5rem;
+    }
+    .button-container {
+      display: flex;
+      align-items: center;
+      justify-content: start;
+      margin-left: -1rem;
+      margin-top: -0.5rem;
+      width: 96vw;
+      padding: 2rem;
+      background-image: url('../../assets/space.jpg');
+      background-repeat: repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+    .button-second-container {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="button-container">
+      <div class="button-second-container">
+        <button type="button" disabled id="init">Initialize Blink Recognition</button>
+        <output id="status"></output>
+      </div>
+    </div>
+  </header>
+  <div class="video-container">
+    <video id="video" src="/assets/video.mp4" controls ></video>
+  </div>
+  <script src="./src/index.js" type="module"></script>
+</body>
+
+</html>
