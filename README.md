@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <img alt="" title="" src="./initial-template/assets/demo-template-lg.gif" width="100%" />
+  <img alt="" title="" src="./template/assets/demo-template-lg.gif" width="100%" />
 </div>
 
 
