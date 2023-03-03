@@ -3,6 +3,11 @@
   <h1> JS ExpertMax | Gesture Controller </h1> 
 </div>
 
+<h1 align="center">
+   https://diaspd.github.io/gesture-controller/template/pages/titles/ 
+</h1>
+
+
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
