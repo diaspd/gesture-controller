@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-   https://diaspd.github.io/gesture-controller/template/pages/titles/ 
+   <p>https://diaspd.github.io/gesture-controller/template/pages/titles/ </p>
 </h1>
 
 
