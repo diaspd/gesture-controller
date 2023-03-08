@@ -55,7 +55,7 @@ This project was developed with the following technologies:
 </b>
 
 ## 📄 Project
-💰 .
+💰 A project made for the user use hands to scroll the page and click on buttons.  
 
 <br></br>
 
