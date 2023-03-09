@@ -40,7 +40,7 @@ $ npm ci
 # Start the project
 $ npm start
 ```
-The app will be available for access on your browser at http://localhost:3000
+The app will be available for access on your browser at `http://localhost:3000`
 
 <br></br>
 
