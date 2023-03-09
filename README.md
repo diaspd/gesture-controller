@@ -3,9 +3,9 @@
   <h1> JS ExpertMax | Gesture Controller </h1> 
 </div>
 
-<h1 align="center">
+<h2 align="center">
    https://diaspd.github.io/gesture-controller/template
-</h1>
+</h2>
 
 
 <p align="center">
