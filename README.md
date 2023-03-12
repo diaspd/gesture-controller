@@ -7,6 +7,7 @@
    https://diaspd.github.io/gesture-controller/template
 </h2>
 
+</br>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
