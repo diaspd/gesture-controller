@@ -53,6 +53,7 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 - NodeJS
+- Machine learning 
 </b>
 
 ## 📄 Project
