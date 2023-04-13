@@ -56,6 +56,8 @@ This project was developed with the following technologies:
 - Machine learning 
 </b>
 
+</br>
+
 ## 📄 Project
 💰 A project made for the user use hands to scroll the page and click on buttons.  
 
