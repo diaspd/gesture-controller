@@ -2,9 +2,9 @@
 <div align="center"> 
   <h1> JS ExpertMax | Gesture Controller </h1> 
 </div>
-
+<h2 align="center">: </h2>
 <h2 align="center">
-   https://diaspd.github.io/gesture-controller/template
+   Link to website: <a href="https://diaspd.github.io/gesture-controller/template" target="_blank">Gesture Controller</a> 
 </h2>
 
 <div align="center">
