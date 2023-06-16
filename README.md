@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <h1> JS ExpertMax | Gesture Controller </h1> 
+  <h1> Gesture Controller </h1> 
 </div>
 
 <h2 align="center">
