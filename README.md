@@ -41,12 +41,16 @@ $ npm start
 ```
 The app will be available for access on your browser at `http://localhost:3000`
 
-<br></br>
+</br>
 
 ## 🤖 Usage 
 - 🤚 To go Up 
 - 👊 To go Down
 - 🤏 To click
+
+`Tips: turn your webcam on, don't use headphones (the math is calculated by the distance between each ear)`
+
+</br>
 
 ## 💻 Technologies
 
